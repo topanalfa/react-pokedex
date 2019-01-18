@@ -2,12 +2,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 60%;
-  height: 600px;
-  overflow: scroll;
-  padding: 10px 10px;
-  margin: 20px auto;
-  background-color: #00a8ff;
+  width: 650px;
+  height: 400px;
+  padding-left: 10px;
+  margin: 50px auto;
+  background-color: #0984e3;
   border-radius: 10px;
   box-shadow: 0 14px 45px rgba(0, 0, 0, 0.22), 0 18px 45px rgba(0, 0, 0, 0.22);
 }
